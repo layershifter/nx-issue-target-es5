@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "nxtest": "apps/nxtest",
+    "nxtest-e2e": "apps/nxtest-e2e"
+  }
+}
